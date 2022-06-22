@@ -1,4 +1,4 @@
-# Simplefolio ⚡️ [![GitHub](https://img.shields.io/github/license/cobidev/simplefolio?color=blue)](https://github.com/cobidev/simplefolio/blob/master/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/cobidev/simplefolio) ![GitHub forks](https://img.shields.io/github/forks/cobidev/simplefolio)
+# Portfolifolio ⚡️ [![GitHub](https://img.shields.io/github/license/cobidev/simplefolio?color=blue)](https://github.com/cobidev/simplefolio/blob/master/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/cobidev/simplefolio) ![GitHub forks](https://img.shields.io/github/forks/cobidev/simplefolio)
 
 ## A minimal portfolio template for Developers!
 
@@ -118,9 +118,9 @@ Go to `/src/index.html` and put your information, there are 5 sections:
 <section id="hero" class="jumbotron">
   <div class="container">
     <h1 class="hero-title load-hidden">
-      Hi, my name is <span class="text-color-main">Your Name</span>
+      Hi, my name is <span class="text-color-main">Kunal</span>
       <br />
-      I'm the Unknown Developer.
+      I'm the Web Developer.
     </h1>
     <p class="hero-cta load-hidden">
       <a rel="noreferrer" class="cta-btn cta-btn--hero" href="#about">
@@ -272,7 +272,7 @@ Go to `/src/index.html` and put your information, there are 5 sections:
         rel="noreferrer"
         target="_blank"
         class="cta-btn cta-btn--resume"
-        href="mailto:example@email.com"
+        href="kunalvvs@email.com"
         >Call to Action</a
       >
     </div>
